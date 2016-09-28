@@ -1,0 +1,8 @@
+use_frameworks!
+
+target 'GeoCaching' do
+
+pod 'Mapbox-iOS-SDK'
+pod 'RealmSwift'
+
+end

@@ -1,0 +1,235 @@
+/* About the App */
+"About the App" = "Wozu die App?";
+
+/* About this app */
+"About this app" = "Über diese App";
+
+/* Activate Offline-Maps */
+"Activate Offline-Maps" = "Karte offline verfügbar machen";
+
+/* Additional Hints */
+"Additional Hints" = "Zusätzliche Hinweise";
+
+/* Update map Desc */
+"An Update of the map material requires a lot of your data volume (~ 100MB)." = "Ein Update des Kartenmaterials erfordert viel Datenvolumen (ca. 100MB).";
+
+/* Fehler beim Download. */
+"An error occured. Please try again." = "Es ist ein Fehler aufgetreten. Versuch's nochmal.";
+
+/* And now? */
+"And now?" = "Und jetzt?";
+
+/* Delete cache warning */
+"Are you sure you want to delete the cache from your List?" = "Möchtest Du den Cache aus der Liste entfernen?";
+
+/* Cancel
+   Cancel-Button */
+"Cancel" = "Abbrechen";
+
+/* Comments */
+"Comments" = "Kommentare";
+
+/* Comments */
+"Comments from other Users" = "Kommentare von anderen Benutzern";
+
+/* Container-Size */
+"Container-Size" = "Größe des Caches";
+
+/* Create own Marker */
+"Create own Marker" = "Eigene Koordinaten eingeben";
+
+/* Delete */
+"Delete" = "Löschen";
+
+/* Delete cache */
+"Delete cache" = "Cache löschen";
+
+/* Delete Marker */
+"Delete own Marker" = "Marker löschen";
+
+/* Description */
+"Description" = "Beschreibung";
+
+/* Difficulty */
+"Difficulty" = "Schwierigkeit";
+
+/* Distance to cache */
+"Distance to cache:" = "Entfernung zum Cache:";
+
+/* Distance to marker */
+"Distance to marker:" = "Entfernung zur Markierung:";
+
+/* Found that cache description */
+"Do you want to mark this cache as 'Found'?" = "Möchtest du diesen Cache als 'Gefunden' markieren?";
+
+/* Download abgeschlossen. Datei wird gelesen… */
+"Download finished. Parsing…" = "Download abgeschlossen. Datei wird gelesen…";
+
+/* End Ochsenfurt-Tour */
+"End Ochsenfurt-Tour" = "Ochsenfurt-Tour beenden";
+
+/* GeoCaching is2 */
+"Equipped with a Global Positioning System (GPS) and coordinates of a \"treasure\" from the internet you can find so called Caches, which are placed by someone else at uncommon places." = "Ausgestattet mit einem Global Positioning System (GPS)-Empfänger und den Koordinaten eines \"Schatzes\" aus dem Internet kann man die sogenannten Caches finden, die jemand anderes an ungewöhnlichen Plätzen versteckt hat.";
+
+/* Found on */
+"Found on" = "Gefunden am";
+
+/* Found that cache? */
+"Found that cache?" = "Cache gefunden?";
+
+/* Found! */
+"Found!" = "Gefunden!";
+
+/* General */
+"General" = "Allgemein";
+
+/* GeoCaching is */
+"GeoCaching is a modern form of Paper chase." = "GeoCaching ist eine moderne Form der Schnitzeljagd.";
+
+/* Go! */
+"Go!" = "Los!";
+
+/* No comment provided by engineer. */
+"Have fun wishes you the team of City Marketing Ochsenfurt." = "Viel Spaß wünscht dir das Team vom Stadtmarketing Ochsenfurt.";
+
+/* Hidden by */
+"Hidden by" = "Versteckt von";
+
+/* Hidden on */
+"Hidden on" = "Versteckt am";
+
+/* Information */
+"Information" = "Information";
+
+/* Insert Coordinates */
+"Insert coordinates" = "Koordinaten eingeben";
+
+/* Found that cache description2 */
+"It will be displayed in your profile." = "Er erscheint dann in deinem Profil.";
+
+/* Delete cache warning2 */
+"It will be placed back on the map to be found later." = "Er erscheint dann wieder auf der Karte und kann erneut gefunden werden.";
+
+/* Last update: */
+"Last update:" = "Letztes Update:";
+
+/* TitleForMapView */
+"Map" = "Karte";
+
+/* More informations… */
+"More informations…" = "Mehr Informationen…";
+
+/* Multi Cache */
+"Multi Cache" = "Multi Cache";
+
+/* Mystery */
+"Mystery" = "Mystery";
+
+/* No information */
+"No information" = "Keine Angabe";
+
+/* No. */
+"No." = "Nein.";
+
+/* Options-Menu Title */
+"Options" = "Optionen";
+
+/* Update map Desc2 */
+"Please ensure you are connected to a WiFi-Hotspot." = "Bitte stelle sicher, dass du eine aktive WLAN-Verbindung hast.";
+
+/* Insert Coordinates */
+"Please enter your coordinates here." = "Gib hier deine Koordinaten ein.";
+
+/* Title For Profile View */
+"Profile" = "Mein Profil";
+
+/* No comment provided by engineer. */
+"Puzzle-Caches, also known as Mystery." = "Rätselcaches, im Sprachgebrauch auch \"Mystery\", \"Puzzle-Cache\" oder \"Rätehaken\" genannt.";
+
+/* Restart Tutorial */
+"Restart Geocaching-Tutorial" = "Geocaching-Tutorial durchführen";
+
+/* Title For Settings View */
+"Settings" = "Einstellungen";
+
+/* Short description */
+"Short description" = "Kurzbeschreibung";
+
+/* Show additional hints… */
+"Show additional hints…" = "Zusätzliche Hinweise anzeigen…";
+
+/* Start Ochsenfurt-Tour */
+"Start Ochsenfurt-Tour" = "Ochsenfurt-Tour starten";
+
+/* Start! */
+"Start!" = "Start!";
+
+/* Terrain */
+"Terrain" = "Gelände";
+
+/* Thank you */
+"Thank you for your interest in our GeoCaching-App for the city of Ochsenfurt." = "Vielen Dank, dass du die GeoCaching-App der Stadt Ochsenfurt benutzen möchtest.";
+
+/* No comment provided by engineer. */
+"The Coordinates of the Multi Cache are not known at the beginning. You have to go through a couple of stations to get the final coordinates." = "Beim Multi Cache sind die Koordinaten des Versteckes zu Beginn der Suche nicht bekannt. Man muss sie sich erst durch das Finden verschiedener Stationen erarbeiten.";
+
+/* No comment provided by engineer. */
+"The given coordinates are not leading directly to the cache. Instead you have to solve a puzzle to get the final coordinates." = "Die angegebenen Koordinaten sind nicht die des eigentlichen Versteckes, sondern befinden sich meist lediglich in der Nähe. Um die Finalkoordinaten zu erhalten muss zuerst ein Rätsel gelöst werden.";
+
+/* No comment provided by engineer. */
+"The map will support you at your hunt after the caches." = "Die Kartenansicht soll dich bei deiner Jagd nach den Caches unterstützen.";
+
+/* No comment provided by engineer. */
+"The most common cache-type. The coordinates are known right at the beginning so you can get to it without losing time." = "Der am häufigsten anzutreffende Cachetyp. Beim Traditional werden die Koordinaten des Verstecks direkt veröffentlicht, so dass man ohne Umwege direkt zum Cache geführt wird.";
+
+/* No comment provided by engineer. */
+"There are exciting puzzles, misterious places and unique caches wating for you to find – Just go ahead and start your adventure!" = "Es warten spannende Rätsel, mysteriöse Orte und einzigartige Caches auf dich – Begib dich jetzt in ein neues Abenteuer!";
+
+/* No comment provided by engineer. */
+"This App contains informations about the caches, which are placed in and around Ochsenfurt." = "Diese App enthält Informationen zu den sogenannten Caches (die Schätze), die in und um Ochsenfurt verteilt worden sind.";
+
+/* About */
+"This app is a project of students from the university of applied science Würzburg/Schweinfurt." = "Diese App ist eine Projektarbeit von Studenten der Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt";
+
+/* GeoCaching Tour */
+"To show you what GeoCaching is all about, we created a small tour for you!" = "Um dir zu zeigen, worum es sich beim GeoCaching handelt, haben wir eine kleine Tour für dich vorbereitet.";
+
+/* No comment provided by engineer. */
+"Traditional" = "Traditional";
+
+/* Update */
+"Update" = "Update";
+
+/* Update caches */
+"Update caches…" = "Neue Caches abrufen…";
+
+/* Update coordinates */
+"Update coordinates" = "Koordinaten aktualisieren";
+
+/* Update map */
+"Update map" = "Kartenupdate durchführen";
+
+/* Update map */
+"Update map…" = "Kartenupdate durchführen…";
+
+/* Welcome */
+"Welcome, Traveller!" = "Herzlich Willkommen!";
+
+/* What is GeoCaching? */
+"What is GeoCaching?" = "Was ist GeoCaching?";
+
+/* Yes! */
+"Yes!" = "Ja!";
+
+/* No caches found */
+"You haven't found any caches yet…" = "Du hast noch keine Caches gefunden…";
+
+/* Your Marker */
+"Your Marker" = "Deine Markierung";
+
+/* Your found caches */
+"Your found caches" = "Gefundene Caches";
+
+/* No comment provided by engineer. */
+"Your smartphone is already equipped with a GPS receiver." = "Dein Smartphone ist bereits mit einem GPS-Empfänger ausgestattet.";
+
